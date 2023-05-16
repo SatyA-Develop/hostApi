@@ -1,0 +1,42 @@
+[
+    {
+        "category": "animation",
+        "image": "/uploads/img1.jpg",
+        "links": ["https://www.youtube.com/embed/4FxNg9N_iyo", "https://www.youtube.com/embed/4FxNg9N_iyo", "https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo" ]
+    },
+    {
+        "category": "vfx",
+        "image": "/uploads/img2.jpeg",
+        "links": ["https://www.youtube.com/embed/4FxNg9N_iyo", "https://www.youtube.com/embed/4FxNg9N_iyo", "https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo" ]
+    },
+    {
+        "category": "video editing",
+        "image": "/uploads/img3.jpg",
+        "links": ["https://www.youtube.com/embed/4FxNg9N_iyo", "https://www.youtube.com/embed/4FxNg9N_iyo", "https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo" ]
+    },
+    {
+        "category": "design",
+        "image": "/uploads/img2.jpeg",
+        "links": ["https://www.youtube.com/embed/4FxNg9N_iyo", "https://www.youtube.com/embed/4FxNg9N_iyo", "https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo" ]
+    },
+    {
+        "category": "copy writing",
+        "image": "/uploads/img1.jpg",
+        "links": ["https://www.youtube.com/embed/4FxNg9N_iyo", "https://www.youtube.com/embed/4FxNg9N_iyo", "https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo" ]
+    },
+    {
+        "category": "Web development",
+        "image": "/uploads/img2.jpeg",
+        "links": ["https://www.youtube.com/embed/4FxNg9N_iyo", "https://www.youtube.com/embed/4FxNg9N_iyo", "https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo" ]
+    },
+    {
+        "category": "game buidling",
+        "image": "/uploads/img1.jpg",
+        "links": ["https://www.youtube.com/embed/4FxNg9N_iyo", "https://www.youtube.com/embed/4FxNg9N_iyo", "https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo" ]
+    },
+    {
+        "category": "graphics design",
+        "image": "/uploads/img2.jpeg",
+        "links": ["https://www.youtube.com/embed/4FxNg9N_iyo", "https://www.youtube.com/embed/4FxNg9N_iyo", "https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo","https://www.youtube.com/embed/4FxNg9N_iyo" ]
+    }
+]
